@@ -11,7 +11,7 @@ Covid-19 팬데믹 기간 동안 학생들 사이에서 큰 인기를 끌었던 
 <h3>🌟 주요 기능</h3>
 <ul>
   <li><strong>회원 기능:</strong> 사용자 등록 및 관리</li>
-  <li><strong>그룹 기능:</strong> 스터디 그룹 생성 및 관리</li>
+  <li><strong>그룹 기능:</strong> 스터디 그룹 생성 및 관리 / 그룹 내 게시판 CRUD</li>
   <li><strong>스터디 룸:</strong> 그룹 내에서 실시간 캠을 통한 스터디룸 생성 및 참여</li>
   <li><strong>실시간 채팅:</strong> 그룹 멤버들과의 실시간 소통</li>
 </ul>
