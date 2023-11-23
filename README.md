@@ -1,6 +1,5 @@
 <h1 align="center">YIU-StudyWithCam</h1>
 <p align="center">
-  <img src="path/to/logo.png" alt="Project Logo" width="200"/>
 </p>
 <h2 align="center">용인대학교 2023년도 졸업작품</h2>
 <p align="center"><strong>실시간 캠 스터디 플랫폼 <StudyWithCam></strong></p>
